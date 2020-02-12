@@ -1,7 +1,7 @@
 # FlexBox
 
 Site name: Trillo | 
-Audience: tourists and travellers people | 
+Audience: tourists and travellers | 
 Developer: Emiliya Tasinich | 
 Design: Jonas Schmedtmann
 
