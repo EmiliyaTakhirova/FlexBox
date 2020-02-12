@@ -7,7 +7,7 @@ Design: Jonas Schmedtmann
 
 The Trillo is a fictional booking hotels app to demonstrate the advanced css/sass features using flex-box.
 
-It containes resources and tasks mastered during a training course on Advanced CSS and SASS - Master FlexBox.
+It contains resources and tasks mastered during a training course on Advanced CSS and SASS - Master FlexBox.
 The single page is implemented using only HTML and CSS/SASS, no javascript is embedded.
 
 ``` bash
